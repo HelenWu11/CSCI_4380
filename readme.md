@@ -23,7 +23,7 @@ for our load_data:
 General interface:
     #just a infinite loop to continue
 
-    manu:
+    menu:
         at first, we would ask the user to write the location
         
         then get into the manu:
